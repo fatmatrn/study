@@ -29,7 +29,7 @@ public class ArraysList01 {
             each=each+2;
             System.out.println(each);
         }
-        System.out.println(liste);
+        System.out.println(liste1);
 
 
     }
